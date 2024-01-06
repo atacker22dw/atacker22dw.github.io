@@ -1,10 +1,10 @@
 # _config.yml
 
 # Site settings
-title: Your Name
-description: Academic Website
+title: Andrew (Andy) Ackerman
+description: Personal Website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yourusername.github.io" # the base hostname & protocol for your site
+url: "https://atacker22dw.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
@@ -12,19 +12,18 @@ theme: jekyll-theme-slate # you can change the theme here
 
 # Author information
 author:
-  name: Your Name
+  name: Andrew (Andy) Ackerman
   bio: "Your bio goes here."
-  location: "Your City, Country"
-  email: your.email@example.com
-  twitter_username: your_twitter_username
-  github_username: your_github_username
+  location: "Chapel Hill, NC"
+  email: atacker@email.unc.edu
+  github_username: atacker22dw
 
 # Social media links
 social:
-  - title: Twitter
-    url: https://twitter.com/your_twitter_username
+  - title: linkedin
+    url: https://www.linkedin.com/in/andrew-ackerman-97bb56166/
   - title: GitHub
-    url: https://github.com/your_github_username
+    url: https://github.com/atacker22dw
 
 # Navigation links
 navbar_links:
@@ -32,6 +31,8 @@ navbar_links:
     url: /
   - title: About
     url: /about
+  - title: Teaching
+    url: /teaching
   - title: Research
     url: /research
   - title: Publications
