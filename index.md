@@ -9,8 +9,10 @@ Ph.D. Candidate
 atacker@email.unc.edu
 
 # Welcome to My Academic Website
-
+- [About Me](about.md)
 - [Teaching](teaching.md)
+- [Research](research.md)
+- [CV](cv.md)
   
 
 
