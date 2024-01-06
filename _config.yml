@@ -1,0 +1,68 @@
+# _config.yml
+
+# Site settings
+title: Your Name
+description: Academic Website
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yourusername.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-slate # you can change the theme here
+
+# Author information
+author:
+  name: Your Name
+  bio: "Your bio goes here."
+  location: "Your City, Country"
+  email: your.email@example.com
+  twitter_username: your_twitter_username
+  github_username: your_github_username
+
+# Social media links
+social:
+  - title: Twitter
+    url: https://twitter.com/your_twitter_username
+  - title: GitHub
+    url: https://github.com/your_github_username
+
+# Navigation links
+navbar_links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Research
+    url: /research
+  - title: Publications
+    url: /publications
+
+# Customize the theme-specific settings (if applicable)
+# For example, in the jekyll-theme-slate, you might have options like:
+# slate:
+#   category_prefix: "category-"
+#   tag_prefix: "tag-"
+
+# Jekyll optional plugins
+plugins:
+  - jekyll-feed
+
+# Exclude files/folders from being processed by Jekyll
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - _site
+  - .sass-cache
+  - .jekyll-cache
+
+# GitHub Pages settings
+github:
+  is_project_page: false
+  dependencies:
+    jekyll: "3.9.0"
+    jekyll-theme-slate: "0.0.4"
+
+# Permalinks
+permalink: pretty
