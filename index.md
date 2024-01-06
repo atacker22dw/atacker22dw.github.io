@@ -3,11 +3,9 @@ layout: default
 title: Andrew (Andy) Ackerman
 ---
 
-Graduate Teaching Fellow
-
+Graduate Teaching Fellow; Ph.D. Candidate \\
 Statistics and Operations Research Department, UNC Chapel Hill
 
-Ph.D. Candidate
 
 
 # Welcome
