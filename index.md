@@ -8,7 +8,7 @@ B-07, Hanes Hall Statistics and Operations Research Department, UNC Chapel Hill
 Ph.D. Candidate
 atacker@email.unc.edu
 
-# Welcome to My Academic Website
+# Welcome
 - [About Me](about.md)
 - [Teaching](teaching.md)
 - [CV](CV.md)
