@@ -11,7 +11,7 @@ atacker@email.unc.edu
 # Welcome to My Academic Website
 - [About Me](about.md)
 - [Teaching](teaching.md)
-- [CV](cv.md)
+- [CV](CV.md)
   
 
 
