@@ -9,6 +9,7 @@ Statistics and Operations Research Department, UNC Chapel Hill
 Hanes Hall, B-07  
 atacker@email.unc.edu
 
+![](pictures/profile.png)
 
 
 # Welcome
@@ -19,5 +20,4 @@ I am a fifth year Ph.D. student in the Statistics and Operations Research Depart
 - [CV](CV.md)
   
 
-![](pictures/profile.png)
 
