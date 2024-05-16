@@ -8,8 +8,7 @@ permalink: /about/
 
 Outside of teaching and research, I am an outdoor enthusiast, amateur ethicist, and classics (from trucks to novels) afficionado.  The majority of my spare time is spent roaming the mountains, whether that be by climbing, running, or backpacking.  Below you can find me pulling hard on the crux of *Devil in the White House*, a classic route at Pilot Mountain State Park, and summitting Mount Ida along the continental divide in Rocky Mountain National Park.  
 
-![Devil in the White House](pictures/climb.jpg)
-<img src="pictures/climb.jpg" alt="Devil in the White House" style="width:50%;">
+<img src="pictures/climb.jpg" alt="Devil in the White House" style="width: 500px; height: auto; display: block; margin-left: auto; margin-right: auto;">
 
 <img src="pictures/ida.jpg" alt="Mt. Ida Summit" style="width: 500px; height: auto; display: block; margin-left: auto; margin-right: auto;">
 
@@ -21,11 +20,11 @@ The experience was formative enough that when I came to graduate school, I promi
 
 When a research problem has me stuck and a climbing project has me stymied, I will often turn to tinkering with my 1978 f100.  She has been given the name Peachy, as a childhood friend described her paint job as nothing less.  As an automatic in an era of 3-speed manual transmissions, she is a bit of an enigma.  In any case, the classic trucks like Peachy boast so much extra space under the hood, that even a novice like myself can manage most repairs.   
 
-<img src="pictures/truck.jpg" alt="UNC Ethics Bowl Team" style="width: 500px; height: auto; display: block; margin-left: auto; margin-right: auto;">
+<img src="pictures/truck.jpg" alt="Peachy" style="width: 500px; height: auto; display: block; margin-left: auto; margin-right: auto;">
 
 Finally, I am (not so recently) engaged to the person on the other end of the rope.  Jennica is a fifth year PhD student in Chemistry at UNC and also my climbing, hiking, and life partner.  We plan to get married in (where else?) Colorado in the summer of 2025.  
 
-<img src="pictures/engage.jpg" alt="UNC Ethics Bowl Team" style="width: 500px; height: auto; display: block; margin-left: auto; margin-right: auto;">
+<img src="pictures/engage.jpg" alt="Jenni and I at Black Balsam Knob -- Blue Ridge Parkway" style="width: 500px; height: auto; display: block; margin-left: auto; margin-right: auto;">
 
 
 [Back to Homepage](index.md)
