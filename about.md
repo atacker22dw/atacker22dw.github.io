@@ -18,13 +18,13 @@ The experience was formative enough that when I came to graduate school, I promi
 
 <img src="pictures/coach.jpg" alt="UNC Ethics Bowl Team" style="width: 500px; height: auto; display: block; margin-left: auto; margin-right: auto;">
 
+When a research problem has me stuck and a climbing project has me stymied, I will often turn to tinkering with my 1978 f100.  She has been given the name Peachy, as a childhood friend described her paint job as nothing less.  As an automatic in an era of 3-speed manual transmissions, she is a bit of an enigma.  In any case, the classic trucks like Peachy boast so much extra space under the hood, that even a novice like myself can manage most repairs.   
 
+<img src="pictures/truck.jpg" alt="UNC Ethics Bowl Team" style="width: 500px; height: auto; display: block; margin-left: auto; margin-right: auto;">
 
+Finally, I am (not so recently) engaged to the person on the other end of the rope.  Jennica is a fifth year PhD student in Chemistry at UNC and also my climbing, hiking, and life partner.  We plan to get married in (where else?) Colorado in the summer of 2025.  
 
-
-
-
-
+<img src="pictures/engage.jpg" alt="UNC Ethics Bowl Team" style="width: 500px; height: auto; display: block; margin-left: auto; margin-right: auto;">
 
 
 [Back to Homepage](index.md)
