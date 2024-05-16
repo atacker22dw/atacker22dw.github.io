@@ -10,9 +10,9 @@ I am a fifth year Ph.D. student in the Statistics and Operations Research Depart
 
 Outside of teaching and research, I am an outdoor enthusiast and a voracious reader of classic fiction. I spend a majority of my spare time either in the mountains with my fiancee and dog or in one of the worlds that Charles Dickens brought to life.  Accordingly, I find that a hard pitch of rock-climbing or several chapters of *Great Expectations* mends most stressful days.  Finally, if nothing else works, you can find me tinkering on my 1978 f100 Ranger.  
 
-![Mt. Ida Summit](pictures/ida.jpg)
+![Mt. Ida Summit](pictures/ida.jpg){width = 50%}
 
-![climb](pictures/climb.jpg)
+![climb](pictures/climb.jpg){width = 50%} 
 
 
 [Back to Homepage](index.md)
