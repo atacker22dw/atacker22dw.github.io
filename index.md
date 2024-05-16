@@ -19,5 +19,5 @@ I am a fifth year Ph.D. student in the Statistics and Operations Research Depart
 - [CV](CV.md)
   
 
-![](pictures/[profile.png)
+![](pictures/profile.png)
 
