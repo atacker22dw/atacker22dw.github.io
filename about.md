@@ -11,9 +11,9 @@ the mountains, whether that be by climbing, running, or backpacking.  Below you 
 *Devil in the White House*, a classic route at Pilot Mountain State Park, and summiting Mount Ida along the continental divide \
 in Rocky Mountain National Park.  
 
-![Devil in the White House (5.10d)](pictures/climb.png)
-
-![Mt. Ida Summit](pictures/ida.png)
+| ![Devil in the White House (5.10d)](pictures/climb.png) | ![Mt. Ida Summit](pictures/ida.png) |
+|:------------------------------------------------------:|:-----------------------------------:|
+|              Devil in the White House                   |           Mt. Ida Summit            |
 
 
 My love for ethics grew very serendipitously out of my freshman year at Clemson.  An admittedly arbitrarily chosen gen-ed requirement (Introduction to Ethics) led to a three-year stint \
