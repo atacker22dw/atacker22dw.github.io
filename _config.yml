@@ -1,0 +1,69 @@
+# _config.yml
+
+# Site settings
+title: Andrew (Andy) Ackerman
+description: Personal Website
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://atacker22dw.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-slate # you can change the theme here
+
+# Author information
+author:
+  name: Andrew (Andy) Ackerman
+  bio: "Your bio goes here."
+  location: "Chapel Hill, NC"
+  email: atacker@email.unc.edu
+  github_username: atacker22dw
+
+# Social media links
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/andrew-ackerman-97bb56166/
+  - title: GitHub
+    url: https://github.com/atacker22dw
+
+# Navigation links
+navbar_links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Teaching
+    url: /teaching
+  - title: Research
+    url: /research
+  - title: Publications
+    url: /publications
+
+# Customize the theme-specific settings (if applicable)
+# For example, in the jekyll-theme-slate, you might have options like:
+# slate:
+#   category_prefix: "category-"
+#   tag_prefix: "tag-"
+
+# Jekyll optional plugins
+plugins:
+  - jekyll-feed
+
+# Exclude files/folders from being processed by Jekyll
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - _site
+  - .sass-cache
+  - .jekyll-cache
+
+# GitHub Pages settings
+github:
+  is_project_page: false
+  dependencies:
+    jekyll: "3.9.0"
+    jekyll-theme-slate: "0.0.4"
+
+# Permalinks
+permalink: pretty
