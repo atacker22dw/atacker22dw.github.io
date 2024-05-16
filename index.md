@@ -17,6 +17,7 @@ I am a fifth year Ph.D. student in the Statistics and Operations Research Depart
 
 - [About Me](about.md)
 - [Teaching](teaching.md)
+- [Service](service.md)
 - [CV](CV.md)
   
 
