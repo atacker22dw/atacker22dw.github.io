@@ -13,7 +13,7 @@ in Rocky Mountain National Park.
 
 | ![Devil in the White House (5.10d)](pictures/climb.png) | ![Mt. Ida Summit](pictures/ida.png) |
 |:------------------------------------------------------:|:-----------------------------------:|
-|              Devil in the White House                   |           Mt. Ida Summit            |
+|          Devil in the White House(510d)                |           Mt. Ida Summit            |
 
 
 My love for ethics grew very serendipitously out of my freshman year at Clemson.  An admittedly arbitrarily chosen gen-ed requirement (Introduction to Ethics) led to a three-year stint \
