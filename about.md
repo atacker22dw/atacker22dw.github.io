@@ -16,7 +16,7 @@ My love for ethics grew very serendipitously out of my freshman year at Clemson.
 
 The experience was formative enough that when I came to graduate school, I promised myself I would find a way to be involved in the team here.  In my first two years, I occasionally volunteered as a guest judge for both the high school and college teams.  However, going into my fourth year, I was asked to coach the UNC team.  You can find more about these experiences on the ethics page, but suffice it to say, this has been and will continue to be an integral part of my life.  
 
-![UNC Ethics Bowl Team](pictures/coach.png)
+![UNC Ethics Bowl Team](pictures/ethics.png)
 
 When a research problem has me stuck and a climbing project has me stymied, I will often turn to tinkering with my 1978 f100.  She has been given the name Peachy, as a childhood friend described her paint job as nothing less.  As an automatic in an era of 3-speed manual transmissions, she is a bit of an enigma.  In any case, the classic trucks like Peachy boast so much extra space under the hood, that even a novice like myself can manage most repairs.   
 
