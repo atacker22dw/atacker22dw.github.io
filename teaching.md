@@ -9,7 +9,7 @@ permalink: /teaching/
 1. **STOR 120: Foundation of Statistics and Data Science in Python**
    - *Description:* A first class in statistical computing and inference taught in python
    - *Semester:* Summer 2024
-3. **STOR 455: Methods of Data Analysis**
+2. **STOR 455: Methods of Data Analysis**
    - *Description:* An undergraduate course in simple linear and generalized linear models
    - *Semester:* Summer 2024
    
