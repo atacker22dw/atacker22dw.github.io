@@ -7,7 +7,7 @@ permalink: /research/
 I am primarily interested in data integration for high dimensional, network data.  This can include both methodological work, such as 1., and application-driven work.  My ongoing work is of this latter form, and involves applying DIVAS to Human Connectome Project data.  I anticipate this work being submitted in this calendar year, but it has also inspired some exciting future methodological work on Jackstraw
 [Jackstraw](https://www.sciencedirect.com/science/article/abs/pii/S0167947322002298) for DIVAS.  
 
-I am also quite interested in the budding intersection between philosophy and statistics.  This is something, I have termed *moral machine learning*, and it is intended to encompass concerns such as algorithmic bias, data privacy, and interpretable methods.  Thus far, this has manifest itself as a new course (see STOR 390 in my [teaching](teaching.md) page) at UNC and a pedagogical preprint reflecting on the preparation and delivery therein.  However, I think there is far more to be said, both about best practices in making such a course more mainstream and in theoretical work surrounding the above issues. 
+I am also quite interested in the budding intersection between philosophy and statistics.  This is something I have termed, *moral machine learning*, and it is intended to encompass concerns such as algorithmic bias, data privacy, and interpretable methods.  Thus far, this has manifest itself as a new course (see STOR 390 in my [teaching](teaching.md) page) at UNC and a pedagogical preprint reflecting on the preparation and delivery therein.  However, I think there is far more to be said, both about best practices in making such a course more mainstream and in theoretical work surrounding the above issues. 
 
 
 
