@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 I am primarily interested in data integration for high dimensional, network data.  This can include both methodological work, such as 1), and application-driven work.  My ongoing work is of this latter form, and involves applying 1) to Human Connectome Project data.  I anticipate this work being submitted in this calendar year, but it has also inspired some exciting future methodological work on Jackstraw
-[Jackstraw][https://www.sciencedirect.com/science/article/abs/pii/S0167947322002298] for DIVAS.  
+[Jackstraw](https://www.sciencedirect.com/science/article/abs/pii/S0167947322002298) for DIVAS.  
 
 
 ## Publications
