@@ -4,7 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-<div style="border: 2px solid black; padding: 20px;">
 
 # About Me 
 
@@ -33,4 +32,3 @@ I am (not so recently) engaged to the person on the other end of the rope.  Jenn
 [Back to Homepage](index.md)
 
 
-</div>
