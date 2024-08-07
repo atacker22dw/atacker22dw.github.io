@@ -10,7 +10,7 @@ permalink: /ethicsbowl/
    - *Students:*
    - *Role:* Coach
    - *Case Set: [Regionals](https://growthzonecmsprodeastus.azureedge.net/sites/36/2023/09/REB-Cases-2023-Final_9_5_2023.pdf), [Nationals](https://growthzonecmsprodeastus.azureedge.net/sites/36/2023/12/2024-APPE-IEB-National-Case-Set-1.pdf)* 
-   - *Result:* Mid-Atlantic Champions, [National Champions](https://alumni.unc.edu/news/unc-wins-ethics-bowl-national-championship/) 
+   - *Result:* [Mid-Atlantic Champions](https://www.unc.edu/posts/2024/03/15/ethics-bowl-team-takes-national-title/), [National Champions](https://alumni.unc.edu/news/unc-wins-ethics-bowl-national-championship/) 
 
    
 
