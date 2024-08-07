@@ -20,7 +20,7 @@ I am also quite interested in the budding intersection between philosophy and st
 
 ## Preprints
 
-3.	**Ackerman, A.**. Moral Machine Learning: Teaching a Course at the Intersection of Applied Statistics and Moral Philosophy (under review at Journal of Statistics and Data Science Education)
+3.	**Ackerman, A.** Moral Machine Learning: Teaching a Course at the Intersection of Applied Statistics and Moral Philosophy (under review at Journal of Statistics and Data Science Education)
 4.	**Ackerman, A.**; Zhang, Z.; Hannig, J.; Prothero, J.; Marron J.S. Multi-faceted Brain Imaging Data Integration via Analysis of Subspaces (submitted to *Psychometrika*) 
 
   
