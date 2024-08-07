@@ -13,14 +13,15 @@ I am also quite interested in the budding intersection between philosophy and st
 
 ## Publications
 
-1.	Prothero, J.;  Jiang, M.;  Hannig, J. ; Tran-Dinh Q.; **Ackerman A.**;  Marron, J.S.;  Data integration via analysis of subspaces (DIVAS). TEST (2024). https://doi.org/10.1007/s11749-024-00923-z
+1.	Prothero, J.;  Jiang, M.;  Hannig, J. ; Tran-Dinh Q.; **Ackerman A.**;  Marron, J.S.  Data integration via analysis of subspaces (DIVAS). TEST (2024). https://doi.org/10.1007/s11749-024-00923-z
 
 2. **Ackerman, A.**; Martin, B.; Tanisha, M.; Edoh, K.; Ward, J.P. High-Dimensional Contact Network Epidemiology. Epidemiologia 2023, 4, 286-297. https://doi.org/10.3390/epidemiologia4030029
 
 
 ## Preprints
 
-3.	Moral Machine Learning: Teaching a Course at the Intersection of Applied Statistics and Moral Philosophy (under review at Journal of Statistics and Data Science Education)
+3.	**Ackerman, A.**. Moral Machine Learning: Teaching a Course at the Intersection of Applied Statistics and Moral Philosophy (under review at Journal of Statistics and Data Science Education)
+4.	**Ackerman, A.**; Zhang, Z.; Hannig, J.; Prothero, J.; Marron J.S. Multi-faceted Brain Imaging Data Integration via Analysis of Subspaces (submitted to *Psychometrika*) 
 
   
 [Back to Homepage](index.md)
