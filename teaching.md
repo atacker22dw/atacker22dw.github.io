@@ -29,13 +29,12 @@ permalink: /teaching/
    - *Description:* A first course in statistical inference and regression
    - *Semester:* Fall 2023, Spring 2023, Summer 2022, Spring 2022
      
-5.  **STOR 120: Foundation of Statistics and Data Science in Python**
-   - *Description:* A first class in statistical computing and inference taught in python
-   - *Semester:* Summer 2024
-     
-6. **STOR 113: Business Calculus and Decision Models**
+5. **STOR 113: Business Calculus and Decision Models**
    - *Description:* Univariate and multivariate differential calculus, optimization, and associated applications
    - *Semester:* Summer 2023, Summer 2022
+6.  **STOR 120: Foundation of Statistics and Data Science in Python**
+   - *Description:* A first class in statistical computing and inference taught in python
+   - *Semester:* Summer 2024
 
 [^1]: Only courses for which I am the **instructor of record** are listed.
   
