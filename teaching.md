@@ -35,7 +35,7 @@ permalink: /teaching/
    - *Description:* Univariate and multivariate differential calculus, optimization, and associated applications
    - *Semester:* Summer 2023, Summer 2022
 
-[^1]: Only courses for which I am *instructor of record* are listed.
+[^1]: Only courses for which I am the **instructor of record** are listed.
   
 [Back to Homepage](index.md)
    
