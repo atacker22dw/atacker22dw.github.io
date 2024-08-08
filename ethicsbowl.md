@@ -36,7 +36,7 @@ permalink: /ethicsbowl/
 1. **Most Recent Case Sets**
    - *2023-2024:* [Regionals](https://growthzonecmsprodeastus.azureedge.net/sites/36/2023/09/REB-Cases-2023-Final_9_5_2023.pdf), [Nationals](https://growthzonecmsprodeastus.azureedge.net/sites/36/2023/12/2024-APPE-IEB-National-Case-Set-1.pdf)
 2. **Moral Philosophy Primer**
-   - *[Primer](Moral Primer.pdf)*
+   - [Primer](Moral Primer.pdf)
      
 [Back to Homepage](index.md)
    
