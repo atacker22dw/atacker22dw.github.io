@@ -7,7 +7,7 @@ permalink: /ethicsbowl/
 ## Current Team
 
 1. **UNC 2023-2024 Intercollegiate Ethics Bowl**
-   - *Students:* <br> Team X: Zachary Buckler, Ann Goulian, Nina Fisher, Marli English, Abi Barbu.  <br> Team Y: Gracie Fisher, Kaleigh Stolberg, Mathew Dale, Chloe Holleschak, Taylor Smith
+   - *Students:* <br> Team X: Zachary Buckler, Ann Goulian, Nina Fisher, Marli English, Abi Barbu  <br> Team Y: Gracie Fisher, Kaleigh Stolberg, Mathew Dale, Chloe Holleschak, Taylor Smith
    - *Role:* Coach
    - *Result:* [Mid-Atlantic Champions](https://alumni.unc.edu/news/unc-wins-ethics-bowl-national-championship/), [National Champions](https://www.unc.edu/posts/2024/03/15/ethics-bowl-team-takes-national-title/) 
 
