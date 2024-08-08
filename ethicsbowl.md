@@ -7,7 +7,7 @@ permalink: /ethicsbowl/
 ## Current Team
 
 1. **UNC 2023-2024 Intercollegiate Ethics Bowl**
-   - *Students:* Team X: Zachary Buckler, Ann Goulian, Nina Fisher, Marli English, Abi Barbu.  Team Y: Gracie Fisher, Kaleigh Stolberg, Mathew Dale, Chloe Holleschak, Taylor Smith
+   - *Students:* \Team X: Zachary Buckler, Ann Goulian, Nina Fisher, Marli English, Abi Barbu.  \Team Y: Gracie Fisher, Kaleigh Stolberg, Mathew Dale, Chloe Holleschak, Taylor Smith
    - *Role:* Coach
    - *Result:* [Mid-Atlantic Champions](https://alumni.unc.edu/news/unc-wins-ethics-bowl-national-championship/), [National Champions](https://www.unc.edu/posts/2024/03/15/ethics-bowl-team-takes-national-title/) 
 
@@ -33,7 +33,7 @@ permalink: /ethicsbowl/
 
 ## Resources
 1. **Most Recent Case Sets**
-   - *2023-2024:* [Regionals](https://growthzonecmsprodeastus.azureedge.net/sites/36/2023/09/REB-Cases-2023-Final_9_5_2023.pdf), [Nationals](https://growthzonecmsprodeastus.azureedge.net/sites/36/2023/12/2024-APPE-IEB-National-Case-Set-1.pdf)
+   - 2023-2024: [Regionals](https://growthzonecmsprodeastus.azureedge.net/sites/36/2023/09/REB-Cases-2023-Final_9_5_2023.pdf), [Nationals](https://growthzonecmsprodeastus.azureedge.net/sites/36/2023/12/2024-APPE-IEB-National-Case-Set-1.pdf)
 2. **Moral Philosophy Primer**
    - [Primer](Moral_Primer.pdf)
      
