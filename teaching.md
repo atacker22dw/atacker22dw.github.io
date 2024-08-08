@@ -11,7 +11,7 @@ permalink: /teaching/
 
 ## Current Courses [^1]
 
-1.**STOR 390: Machine Learning -- Ethics and Society**
+1. **STOR 390: Machine Learning -- Ethics and Society**
    - *Description:* I developed this course to stand at the intersection of applied statistics and moral philosophy.  It aims to tackle normative concerns that arise from our statistical methods such as algorithmic bias, data privacy, and methodological transparency.  
    - *Semester:* Fall 2024
 
