@@ -18,7 +18,7 @@ permalink: /ethicsbowl/
 1. **Clemson 2018-2019**
    - *Coach:* David Antonini 
    - *Role:* Ethical Argumentation (Captain)
-   - *Result:* Third Nationally
+   - *Result:* [Third Nationally](https://news.clemson.edu/ethics-bowl-team-ties-for-third-at-national-championship/)
      
 2. **Clemson 2017-2018**
    - *Coach:* Adam Gies
