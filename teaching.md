@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## Current Courses
+## Current Courses [^1]
 
 1. **STOR 120: Foundation of Statistics and Data Science in Python**
    - *Description:* A first class in statistical computing and inference taught in python
@@ -34,6 +34,8 @@ permalink: /teaching/
 5. **STOR 113: Business Calculus and Decision Models**
    - *Description:* Univariate and multivariate differential calculus, optimization, and associated applications
    - *Semester:* Summer 2023, Summer 2022
+
+[^1]: Only courses for which I am *instructor of record* are listed.
   
 [Back to Homepage](index.md)
    
