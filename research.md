@@ -13,9 +13,9 @@ I am also quite interested in the budding intersection between philosophy and st
 
 ## Publications
 
-1.	Prothero, J.;  Jiang, M.;  Hannig, J. ; Tran-Dinh Q.; **Ackerman A.**;  Marron, J.S.  Data integration via analysis of subspaces (DIVAS). TEST (2024). https://doi.org/10.1007/s11749-024-00923-z
+1.	Prothero, J.;  Jiang, M.;  Hannig, J. ; Tran-Dinh Q.; **Ackerman A.**;  Marron, J.S.  Data integration via analysis of subspaces (DIVAS). TEST (2024). [doi](https://doi.org/10.1007/s11749-024-00923-z)
 
-2. **Ackerman, A.**; Martin, B.; Tanisha, M.; Edoh, K.; Ward, J.P. High-Dimensional Contact Network Epidemiology. Epidemiologia 2023, 4, 286-297. https://doi.org/10.3390/epidemiologia4030029
+2. **Ackerman, A.**; Martin, B.; Tanisha, M.; Edoh, K.; Ward, J.P. High-Dimensional Contact Network Epidemiology. Epidemiologia 2023, 4, 286-297. [doi](https://doi.org/10.3390/epidemiologia4030029)
 
 
 ## Preprints
