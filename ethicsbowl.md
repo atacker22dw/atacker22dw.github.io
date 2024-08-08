@@ -7,7 +7,7 @@ permalink: /ethicsbowl/
 ## Current Team
 
 1. **UNC 2023-2024 Intercollegiate Ethics Bowl**
-   - *Students:*
+   - *Students:* Team X: Zachary Buckler, Ann Goulian, Nina Fisher, Marli English, Abi Barbu.  Team Y: Gracie Fisher, Kaleigh Stolberg, Mathew Dale, Chloe Holleschak, Taylor Smith
    - *Role:* Coach
    - *Result:* [Mid-Atlantic Champions](https://alumni.unc.edu/news/unc-wins-ethics-bowl-national-championship/), [National Champions](https://www.unc.edu/posts/2024/03/15/ethics-bowl-team-takes-national-title/) 
 
@@ -16,20 +16,19 @@ permalink: /ethicsbowl/
 ## Past Teams
 
 1. **Clemson 2018-2019**
-   - *Students:*
-   - *Coach:*
+   - *Coach:* David Antonini 
    - *Role:* Ethical Argumentation (Captain)
    - *Result:* Third Nationally
      
 2. **Clemson 2017-2018**
-   - *Students:*
+   - *Coach:* Adam Gies
    - *Role:* Ethical Argumentation 
-   - *Result: National Qualifier (Did not make quarterfinal round)* 
+   - *Result:* National Qualifier (Did not make quarterfinal round) 
 
 3. **Clemson 2016-2017**
-   - *Students:*
+   - *Coach:* Adam Gies
    - *Role:* Conclusions
-   - *Result: National Qualifier (Did not make quarterfinal round)*
+   - *Result:* National Qualifier (Did not make quarterfinal round)
   
 
 ## Resources
