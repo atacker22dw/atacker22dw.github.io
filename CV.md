@@ -6,7 +6,7 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-You can download my CV (last updated in November 2023) in pdf format: [Vitae](CV_new.pdf)
+You can download my CV (last updated in August 2024) in pdf format: [Vitae](CV_new.pdf)
 
 # Short Bio
 
