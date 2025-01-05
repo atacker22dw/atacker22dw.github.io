@@ -11,9 +11,9 @@ permalink: /teaching/
 
 ## Current Courses [^1]
 
-1. **STOR 390: Machine Learning -- Ethics and Society**
-   - *Description:* I developed this course to stand at the intersection of applied statistics and moral philosophy.  It aims to tackle normative concerns that arise from our statistical methods such as algorithmic bias, data privacy, and methodological transparency.  
-   - *Semester:* Fall 2024
+1. **STOR 155: Introduction to Data Models and Inference**
+   - *Description:* A first course in statistical inference and regression
+   - *Semester:* Spring 2025
 
 ## Past Courses
 
@@ -22,7 +22,7 @@ permalink: /teaching/
    - *Semester:* Summer 2023, Summer 2024
 2. **STOR 390: Machine Learning -- Ethics and Society**
    - *Description:* I developed this course to stand at the intersection of applied statistics and moral philosophy.  It aims to tackle normative concerns that arise from our statistical methods such as algorithmic bias, data privacy, and methodological transparency.  
-   - *Semester:* Spring 2024
+   - *Semester:* Spring 2024, Fall 2024
 3. **STOR 320: Introduction to Data Science in R**
    - *Description:* A comprehensive course in statistical computing and modeling
    - *Semester:* Fall 2022    
