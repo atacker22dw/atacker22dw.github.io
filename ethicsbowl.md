@@ -6,7 +6,7 @@ permalink: /ethicsbowl/
 
 ## Current Team
 
-I am not coaching during my final year at UNC. 
+I am not coaching during my final year at UNC. However, I plan to resume coaching when I begin a position as an assistant professor.  
    
 
 ## Past Teams
