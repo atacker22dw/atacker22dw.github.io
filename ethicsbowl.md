@@ -6,7 +6,7 @@ permalink: /ethicsbowl/
 
 ## Current Team
 
-I am not coaching during my final year at UNC.  However, I plan to start an Ethics Bowl team at Lafayette College when I start my new position as an Assistant Professor of Mathematics. 
+I am not coaching during my final year at UNC. 
    
 
 ## Past Teams
