@@ -6,7 +6,8 @@ permalink: /teaching/
 
 ## Curriculum Developed 
 1. **STOR 390: Machine Learning -- Ethics and Society**
-   - This course currently counts towards the *data, culture, and society* credit of the UNC Data Science Minor, and elective credit for the Statistics and Analytics Minor.
+   - This course satisfied the *data, culture, and society* credit of the UNC Data Science Minor, and elective credit for the Statistics and Analytics Minor.
+   - STOR 323 is the new (permanent) course listing at UNC.  It is being taught by a variety of faculty and now satisfies elective credit in the STAN major as well.  
    - A pedagogical paper has been produced pertaining to this course and is discussed on the [Research](research.md) page.
 
 ## Current Courses [^1]
