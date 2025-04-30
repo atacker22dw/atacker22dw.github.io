@@ -12,7 +12,7 @@ permalink: /teaching/
 
 ## Current Courses [^1]
 
-1. **MATH[^2] 186: Applied Statistics**
+1. **MATH 186: Applied Statistics[^2]**
    - *Description:* A first course in probability, inference and regression
    - *Semester:* Fall 2025
 
