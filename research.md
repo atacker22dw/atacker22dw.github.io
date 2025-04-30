@@ -27,4 +27,4 @@ I am also quite interested in the budding intersection between philosophy and st
 
 [Back to Homepage](index.md)
 
-%<img src="pictures/AckermanLogo.png" width="450" class="bottom-right-image" />
+<img src="pictures/AckermanLogo.png" width="450" class="bottom-right-image" />
