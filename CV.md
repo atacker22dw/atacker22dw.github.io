@@ -12,7 +12,7 @@ You can download my CV (last updated in August 2024) in pdf format: [Vitae](CV_n
 
 Alternatively, you can download my short bio (last updated in August 2024) in pdf format: [bio](Short_bio.pdf)
 
-
+<img src="pictures/AckermanLogo.JPEG" width="450" />
 
 [Back to Homepage](index.md)
 
