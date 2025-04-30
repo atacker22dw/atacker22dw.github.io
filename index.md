@@ -7,7 +7,7 @@ Assistant Professor
 Department of Mathematics, Lafayette College    
 atackermat@lafayette.edu
 
-<img src="pictures/prof3.png" width="400" />
+<img src="pictures/prof4.png" width="400" />
 
 
 # Welcome
