@@ -27,9 +27,9 @@ The experience was formative enough that when I came to graduate school, I promi
 
 I am (not so recently) engaged to the person on the other end of the rope.  Jennica is a fifth year PhD student in Chemistry at UNC and also my climbing, hiking, and life partner.  We plan to get married in (where else?) Colorado in the summer of 2025.  
 
-|  ![UNC Ethics Bowl Team](pictures/sib4.png)           |  ![Jenni and I on Black Balsam Knob -- Blue Ridge Parkway](pictures/dv.png)|
+|            |  ![Jenni and I on Black Balsam Knob -- Blue Ridge Parkway](pictures/dv.png)|
 |:----------------------------------------------------:|:-----------------------------------:|
-| Ellen, Ethan, and I at Duke University  |  Ellen, Ethan, and I in Death Valley   |
+|   |  Ellen, Ethan, and I in Death Valley   |
 
 I have twin siblings, Ethan and Ellen.  We are all Clemson alumni, and we tend to sport the Tigers wherever we go.  Ethan has given me my love of old country music and classic rock.  He has also helped me to appreciate moments of quiet solitude.  Ellen continually inspires me to immulate her own kindness and resolve.  
 
