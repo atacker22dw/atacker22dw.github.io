@@ -27,9 +27,9 @@ The experience was formative enough that when I came to graduate school, I promi
 
 I am (not so recently) engaged to the person on the other end of the rope.  Jennica is a fifth year PhD student in Chemistry at UNC and also my climbing, hiking, and life partner.  We plan to get married in (where else?) Colorado in the summer of 2025.  
 
-|  ![Ethan, Ellen and I](pictures/sib.PNG)           |  ![Ethan, Ellen and I](pictures/sib2.jpg)|
-|:------------------------------------------------------:|:-----------------------------------:|
-| Ethan, Ellen and I at Duke University  |  Ethan, Ellen and I at Lake Hartwell   |
+<img src="pictures/sib.PNG" alt="My Image" style="display: block; margin: 0 auto;">
+
+
 
 
 [Back to Homepage](index.md)
