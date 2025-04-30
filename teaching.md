@@ -12,24 +12,24 @@ permalink: /teaching/
 
 ## Current Courses [^1]
 
-1. **STOR 155: Introduction to Data Models and Inference**
-   - *Description:* A first course in statistical inference and regression
-   - *Semester:* Spring 2025
+1. **MATH[^2] 186: Applied Statistics**
+   - *Description:* A first course in probability, inference and regression
+   - *Semester:* Fall 2025
 
 ## Past Courses
 
 1. **STOR 455: Methods of Data Analysis**
    - *Description:* An undergraduate course in simple linear and generalized linear models
-   - *Semester:* Summer 2023, Summer 2024
+   - *Semester:* Summer 2024, Summer 2023
 2. **STOR 390: Machine Learning -- Ethics and Society**
    - *Description:* I developed this course to stand at the intersection of applied statistics and moral philosophy.  It aims to tackle normative concerns that arise from our statistical methods such as algorithmic bias, data privacy, and methodological transparency.  
-   - *Semester:* Spring 2024, Fall 2024
+   - *Semester:* Fall 2024, Spring 2024
 3. **STOR 320: Introduction to Data Science in R**
    - *Description:* A comprehensive course in statistical computing and modeling
    - *Semester:* Fall 2022    
 4. **STOR 155: Introduction to Data Models and Inference**
    - *Description:* A first course in statistical inference and regression
-   - *Semester:* Fall 2023, Spring 2023, Summer (1) 2022, Summer (2) 2022, Spring 2022
+   - *Semester:* Spring 2025, Fall 2023, Spring 2023, Summer (1) 2022, Summer (2) 2022, Spring 2022
 5. **STOR 120: Foundation of Statistics and Data Science in Python**
    - *Description:* A first class in statistical computing and inference taught in python
    - *Semester:* Summer 2024
@@ -39,6 +39,7 @@ permalink: /teaching/
 
 
 [^1]: Only courses for which I am the **instructor of record** are listed.
+[^2]: MATH courses are taught in the Mathematics Department at Lafayette College.  STOR courses are taught in the Statistics and Operations Research Department at UNC Chapel Hill. 
   
 [Back to Homepage](index.md)
    
