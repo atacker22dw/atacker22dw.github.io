@@ -25,6 +25,6 @@ I am also quite interested in the budding intersection between philosophy and st
 
 [^1]: This paper was awarded a graduate student paper award at the *Ethics Across the Curriculum Conference*. 
 
-<img src="pictures/AckermanLogo.png" class="bottom-right-image" />
+<img src="pictures/AckermanLogo.png" width="450" class="bottom-right-image" />
 
 [Back to Homepage](index.md)
