@@ -17,4 +17,4 @@ Alternatively, you can download my short bio (last updated in August 2024) in pd
 [Back to Homepage](index.md)
 
 
-<img src="/tree/main/pictures/AckermanLogo.JPEG" width="450" class="bottom-right-image" />
+<img src="./pictures/AckermanLogo.JPEG" width="450" class="bottom-right-image" />
