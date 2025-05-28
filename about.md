@@ -31,7 +31,7 @@ I am (not so recently) engaged to the person on the other end of the rope.  Jenn
 |:----------------------------------------------------:|:-----------------------------------:|
 | Ellen, Ethan, and I at Duke University  |  Ellen, Ethan, and I in Death Valley   |
 
-I have twin siblings, Ethan and Ellen.  We are all Clemson alumni, and we tend to sport the Tigers wherever we go.  Ethan has given me my love of old country music and classic rock.  He has also helped me to appreciate moments of quiet solitude.  Ellen continually inspires me to immulate her own kindness and resolve.  
+I have twin siblings, Ethan and Ellen.  We are all Clemson alumni, and we tend to sport the Tigers wherever we go.  Ethan has given me my love of old country music and classic rock.  He has also helped me to appreciate moments of quiet solitude.  Ellen continually inspires me to emulate her own kindness and resolve.  
 
 
 [Back to Homepage](index.md)
