@@ -21,6 +21,7 @@ permalink: /teaching/
 1. **STOR 455: Methods of Data Analysis**
    - *Description:* An undergraduate course in simple linear and generalized linear models
    - *Semester:* Summer 2024, Summer 2023
+   - [Syllabus](455.pdf)
 2. **STOR 390: Machine Learning -- Ethics and Society**
    - *Description:* I developed this course to stand at the intersection of applied statistics and moral philosophy.  It aims to tackle normative concerns that arise from our statistical methods such as algorithmic bias, data privacy, and methodological transparency.  
    - *Semester:* Fall 2024, Spring 2024
