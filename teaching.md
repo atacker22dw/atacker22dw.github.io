@@ -37,6 +37,7 @@ permalink: /teaching/
 5. **STOR 120: Foundation of Statistics and Data Science in Python**
    - *Description:* A first class in statistical computing and inference taught in python
    - *Semester:* Summer 2024
+   - [Syllabus](120.pdf)
 6. **STOR 113: Business Calculus and Decision Models**
    - *Description:* Univariate and multivariate differential calculus, optimization, and associated applications
    - *Semester:* Summer 2023, Summer 2022
