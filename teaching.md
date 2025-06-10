@@ -30,7 +30,7 @@ permalink: /teaching/
 4. **STOR 155: Introduction to Data Models and Inference**
    - *Description:* A first course in statistical inference and regression
    - *Semester:* Spring 2025, Fall 2023, Spring 2023, Summer (1) 2022, Summer (2) 2022, Spring 2022
-   - [Syllabus](STOR 1550.04.docx)
+   - [Syllabus](155.04.docx)
 5. **STOR 120: Foundation of Statistics and Data Science in Python**
    - *Description:* A first class in statistical computing and inference taught in python
    - *Semester:* Summer 2024
