@@ -40,6 +40,7 @@ permalink: /teaching/
 6. **STOR 113: Business Calculus and Decision Models**
    - *Description:* Univariate and multivariate differential calculus, optimization, and associated applications
    - *Semester:* Summer 2023, Summer 2022
+   - [Syllabus](113.pdf)
 
 
 [^1]: Only courses for which I am the **instructor of record** are listed.
