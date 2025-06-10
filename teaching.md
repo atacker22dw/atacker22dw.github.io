@@ -28,7 +28,8 @@ permalink: /teaching/
    - [Syllabus](390.pdf)
 3. **STOR 320: Introduction to Data Science in R**
    - *Description:* A comprehensive course in statistical computing and modeling
-   - *Semester:* Fall 2022    
+   - *Semester:* Fall 2022
+   - [Syllabus](320.pdf)   
 4. **STOR 155: Introduction to Data Models and Inference**
    - *Description:* A first course in statistical inference and regression
    - *Semester:* Spring 2025, Fall 2023, Spring 2023, Summer (1) 2022, Summer (2) 2022, Spring 2022
