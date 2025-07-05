@@ -5,7 +5,7 @@ title: Andrew (Andy) Ackerman
 
 Assistant Professor   
 Department of Mathematics, Lafayette College    
-atackermat@lafayette.edu
+ackermat@lafayette.edu
 
 <img src="pictures/prof4.png" width="450" />
 
