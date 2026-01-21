@@ -25,7 +25,7 @@ The experience was formative enough that when I came to graduate school, I promi
 |:------------------------------------------------------:|:-----------------------------------:|
 | UNC Ethics Bowl Team at Nationals in Cincinnati, Ohio  |  Jenni and I on Black Balsam Knob   |
 
-I am (not so recently) engaged to the person on the other end of the rope.  Jennica is a fifth year PhD student in Chemistry at UNC and also my climbing, hiking, and life partner.  We plan to get married in (where else?) Colorado in the summer of 2025.  
+I am newly married to the person on the other end of the rope.  Jennica is a chemist at Quaker Houghton and also my climbing, hiking, and life partner.  We will celebrate our first anniversary on July 26, 2026.    
 
 |   ![UNC Ethics Bowl Team](pictures/sib4.png)           |  ![Jenni and I on Black Balsam Knob -- Blue Ridge Parkway](pictures/dv.png)|
 |:----------------------------------------------------:|:-----------------------------------:|
