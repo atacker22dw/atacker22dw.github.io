@@ -23,7 +23,8 @@ permalink: /teaching/
 
 1. **MATH 186: Applied Statistics**
    - *Description:* A first course in probability, inference and regression
-   - *Semester:* Fall 2025 (x2) 
+   - *Semester:* Fall 2025 (x2)
+   - [Syllabus](Math 186.pdf) 
 2. **STOR 455: Methods of Data Analysis**
    - *Description:* An undergraduate course in simple linear and generalized linear models
    - *Semester:* Summer 2024, Summer 2023
