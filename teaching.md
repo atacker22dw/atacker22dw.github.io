@@ -12,33 +12,39 @@ permalink: /teaching/
 
 ## Current Courses [^1]
 
-1. **MATH 186: Applied Statistics[^2]**
-   - *Description:* A first course in probability, inference and regression
-   - *Semester:* Fall 2025
+1. **MATH 335: Probability Theory [^2]**
+   - *Description:* A development of basic probability theory from axioms to the Central Limit Theorem
+   - *Semester:* Spring 2026
+2. **MATH 336: Mathematical Statistics**
+   - *Description:* A mathematical treatment of estimation, sampling distributions, hypothesis testing, and regression
+   - *Semester:* Spring 2026
 
 ## Past Courses
 
-1. **STOR 455: Methods of Data Analysis**
+1. **MATH 186: Applied Statistics**
+   - *Description:* A first course in probability, inference and regression
+   - *Semester:* Fall 2025 (x2) 
+2. **STOR 455: Methods of Data Analysis**
    - *Description:* An undergraduate course in simple linear and generalized linear models
    - *Semester:* Summer 2024, Summer 2023
    - [Syllabus](455.pdf)
-2. **STOR 390: Machine Learning -- Ethics and Society**
+3. **STOR 390: Machine Learning -- Ethics and Society**
    - *Description:* I developed this course to stand at the intersection of applied statistics and moral philosophy.  It aims to tackle normative concerns that arise from our statistical methods such as algorithmic bias, data privacy, and methodological transparency.  
    - *Semester:* Fall 2024, Spring 2024
    - [Syllabus](390.pdf)
-3. **STOR 320: Introduction to Data Science in R**
+4. **STOR 320: Introduction to Data Science in R**
    - *Description:* A comprehensive course in statistical computing and modeling
    - *Semester:* Fall 2022
    - [Syllabus](320.pdf)   
-4. **STOR 155: Introduction to Data Models and Inference**
+5. **STOR 155: Introduction to Data Models and Inference**
    - *Description:* A first course in statistical inference and regression
    - *Semester:* Spring 2025, Fall 2023, Spring 2023, Summer (1) 2022, Summer (2) 2022, Spring 2022
    - [Syllabus](155.04.pdf)
-5. **STOR 120: Foundation of Statistics and Data Science in Python**
+6. **STOR 120: Foundation of Statistics and Data Science in Python**
    - *Description:* A first class in statistical computing and inference taught in python
    - *Semester:* Summer 2024
    - [Syllabus](120.pdf)
-6. **STOR 113: Business Calculus and Decision Models**
+7. **STOR 113: Business Calculus and Decision Models**
    - *Description:* Univariate and multivariate differential calculus, optimization, and associated applications
    - *Semester:* Summer 2023, Summer 2022
    - [Syllabus](113.pdf)
