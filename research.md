@@ -20,6 +20,7 @@ I am also quite interested in the budding intersection between philosophy and st
 
 
 ## Preprints
+1. Purposeful Bias: Algorithmic Bias under Ideal Data Conditions (Submitted to IEEE Access) 
 
 [^1]: This paper was awarded a graduate student paper award at the *Ethics Across the Curriculum Conference*. 
 
