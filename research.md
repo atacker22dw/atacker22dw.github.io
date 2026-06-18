@@ -14,7 +14,7 @@ I am also quite interested in the budding intersection between philosophy and st
 ## Publications
 
 1. **Ackerman, A.** Purposeful Bias: Algorithmic Bias under Ideal Data Conditions. IEEE Access. (2026). 
-[doi](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11559579)
+[doi](https://ieeexplore.ieee.org/abstract/document/11559579)
 2. **Ackerman A.**, Zhang Z., Hannig J., Prothero J., Marron JS. Multifaceted Neuroimaging Data Integration via Analysis of Subspaces. Psychometrika. (2025) 1-26. [doi](https://doi.org/10.1017/psy.2025.10020)
 3. **Ackerman, A.** Moral Machine Learning: Teaching a Course at the Intersection of Applied Statistics and Moral Philosophy. Journal of Statistics and Data Science Education (2025), 1–23. [doi](https://doi.org/10.1080/26939169.2025.2485239) [^1]
 4.	Prothero, J.;  Jiang, M.;  Hannig, J. ; Tran-Dinh Q.; **Ackerman A.**;  Marron, J.S.  Data integration via analysis of subspaces (DIVAS). TEST (2024). [doi](https://doi.org/10.1007/s11749-024-00923-z)
