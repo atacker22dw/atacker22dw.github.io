@@ -26,12 +26,16 @@ I am also quite interested in the budding intersection between philosophy and st
 
 
 ## Preprints
+1. The Hypothesis Interval: A Pedagogical Distinction for Inference on Proportions
 
 [^1]: This paper was awarded a graduate student paper award at the *Ethics Across the Curriculum Conference*. 
 
-## Software 
+## Software[^1]
 
-1) [DIVAS](https://github.com/jbprothero/Data-Integration-Via-Analysis-of-Subspaces) associated with 4.
-2) 
+1. [DIVAS](https://github.com/jbprothero/Data-Integration-Via-Analysis-of-Subspaces) associated with 4.
+2. [Hypothesis Intervals](https://github.com/atacker22dw/Hypothesis-Intervals)
+
+
+[^1]: Only software with a user-facing function or set of functions are listed.  Code for reproducing results is given in the associated paper.  
 
 [Back to Homepage](index.md)
