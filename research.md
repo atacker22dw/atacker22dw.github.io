@@ -36,7 +36,7 @@ I am also quite interested in the budding intersection between philosophy and st
 2. [Hypothesis Intervals](https://github.com/atacker22dw/Hypothesis-Intervals) associated with Preprint 1. 
 
 
-[^1]: This paper was awarded a graduate student paper award at the **Ethics Across the Curriculum** Conference.
+[^1]: This paper was awarded a graduate student paper award at the *Ethics Across the Curriculum* Conference.
 [^2]: Only software with a user-facing function or set of functions are listed.  Code for reproducing results is given in the associated paper.
 
 [Back to Homepage](index.md)
