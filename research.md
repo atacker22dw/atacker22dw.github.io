@@ -31,7 +31,7 @@ I am also quite interested in the budding intersection between philosophy and st
 
 ## Software 
 
-1) [DIVAS](https://github.com/atacker22dw/DIVAS2021) associated with 4.
+1) [DIVAS](https://github.com/jbprothero/Data-Integration-Via-Analysis-of-Subspaces) associated with 4.
 2) 
 
 [Back to Homepage](index.md)
