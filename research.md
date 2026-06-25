@@ -4,7 +4,9 @@ title: Research
 permalink: /research/
 ---
 
+I am primarily interested in the budding intersection between philosophy and statistics.  This encompasses concerns of algorithmic bias, fairness metrics, data privacy, and interpretable methods.  In general, I have termed this intersection *moral machine learning* and has inspired a new course (see STOR 390 in my [teaching](teaching.md) page).  
 
+Secondarily, I am also interested in high-dimensional data integreation and inference, compartmental models in epidemiology, and statistical pedagogy.   
 
 <!-- I am primarily interested in data integration for high dimensional, network data.  This can include both methodological work, such as 1., and application-driven work.  My ongoing work is of this latter form, and involves applying DIVAS to Human Connectome Project data.  I anticipate this work being submitted in this calendar year, but it has also inspired some exciting future methodological work on
 [Jackstraw](https://www.sciencedirect.com/science/article/abs/pii/S0167947322002298) for DIVAS.  As a coauthor on 1., I also help maintain the [DIVAS github repository](https://github.com/atacker22dw/DIVAS2021) alongside Jack Prothero.
