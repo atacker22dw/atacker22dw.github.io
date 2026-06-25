@@ -6,7 +6,7 @@ permalink: /ethicsbowl/
 
 ## Current Team
 
-I began holding provisional practices for the inaugural team at Lafayette College in the spring of 2026.  I will continue holding mock practices throughout the fall of 2026 with the hopes of finalizing team members by spring 2027.  We will begin competing in the fall of 2027.  
+I began holding provisional practices for the inaugural team at Lafayette College in the spring of 2026.  I will continue holding mock practices throughout the fall of 2026 with the hopes of finalizing team members by the spring of 2027.  We will begin competing in the fall of 2027.  
 
 
 ## Past Teams
