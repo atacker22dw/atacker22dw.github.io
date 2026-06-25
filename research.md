@@ -33,7 +33,7 @@ I am also quite interested in the budding intersection between philosophy and st
 ## Software[^1]
 
 1. [DIVAS](https://github.com/jbprothero/Data-Integration-Via-Analysis-of-Subspaces) associated with 4.
-2. [Hypothesis Intervals](https://github.com/atacker22dw/Hypothesis-Intervals)
+2. [Hypothesis Intervals](https://github.com/atacker22dw/Hypothesis-Intervals) associated with Preprint 1. 
 
 
 [^1]: Only software with a user-facing function or set of functions are listed.  Code for reproducing results is given in the associated paper.  
