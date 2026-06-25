@@ -29,4 +29,9 @@ I am also quite interested in the budding intersection between philosophy and st
 
 [^1]: This paper was awarded a graduate student paper award at the *Ethics Across the Curriculum Conference*. 
 
+## Software 
+
+1) [DIVAS](https://github.com/atacker22dw/DIVAS2021) associated with 4.
+2) 
+
 [Back to Homepage](index.md)
