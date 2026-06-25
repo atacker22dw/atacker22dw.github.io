@@ -30,12 +30,13 @@ I am also quite interested in the budding intersection between philosophy and st
 
 [^1]: This paper was awarded a graduate student paper award at the *Ethics Across the Curriculum Conference*. 
 
-## Software[^1]
+## Software[^2]
 
 1. [DIVAS](https://github.com/jbprothero/Data-Integration-Via-Analysis-of-Subspaces) associated with 4.
 2. [Hypothesis Intervals](https://github.com/atacker22dw/Hypothesis-Intervals) associated with Preprint 1. 
 
 
-[^1]: Only software with a user-facing function or set of functions are listed.  Code for reproducing results is given in the associated paper.  
+[^1]: This paper is associated with a graduate student paper award.
+[^2]: Only software with a user-facing function or set of functions are listed.  Code for reproducing results is given in the associated paper.
 
 [Back to Homepage](index.md)
