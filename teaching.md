@@ -12,7 +12,7 @@ permalink: /teaching/
 
 ## Current Courses [^1]
 
-1. **MATH 161: Calculus I**
+1. **MATH 161[^2]: Calculus I**
    - *Description:* An introduction to differential calculus. Topics include limits, derivatives, techniques of differentiation, definite integrals, the fundamental theorem of calculus, and applications of derivatives and integrals. 
    - *Semester:* Fall 2026 (x2)
 2. **MATH 336: Mathematical Statistics**
@@ -21,7 +21,7 @@ permalink: /teaching/
 
 ## Past Courses
 
-1. **MATH 335: Probability Theory [^2]**
+1. **MATH 335: Probability Theory**
    - *Description:* A development of basic probability theory from axioms to the Central Limit Theorem
    - *Semester:* Spring 2026
    - [Syllabus](335.pdf)
