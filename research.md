@@ -26,7 +26,7 @@ I am also quite interested in the budding intersection between philosophy and st
 
 
 ## Preprints
-1. The Hypothesis Interval: A Pedagogical Distinction for Inference on Proportions (submitted to the Journal of Statistics and Data Science Education)
+1. The Hypothesis Interval: A Pedagogical Distinction for Inference on Proportions (submitted to the *Journal of Statistics and Data Science Education*)
 
 [^1]: This paper was awarded a graduate student paper award at the *Ethics Across the Curriculum Conference*. 
 
